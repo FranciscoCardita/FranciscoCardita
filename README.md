@@ -9,22 +9,22 @@
 
 <div align = center>
   <a href="https://github.com/franciscocardita/POO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=POO&theme=dracula" width="420" style="padding: 10px;" x/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=POO&theme=dracula" width="420" />
   </a>
   <a href="https://github.com/franciscocardita/AC1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=AC1&theme=dracula" width="420" style="padding: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=AC1&theme=dracula" width="420" />
   </a>
 </div>
 
 ## Where to find me
 <div align="center">
-<a href="https://github.com/FranciscoCardita" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/franciscocardita" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:franciscocardita@ua.pt" target="_blank">
-<img src=https://img.shields.io/badge/mail-%2324292e.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=mail style="margin-bottom: 5px;" />
-</a>
+  <a href="https://github.com/FranciscoCardita" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/franciscocardita" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:franciscocardita@ua.pt" target="_blank">
+    <img src=https://img.shields.io/badge/mail-%2324292e.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=mail style="margin-bottom: 5px;" />
+  </a>
 </div>
