@@ -1,4 +1,4 @@
-## Hi there, I'm Francisco Cardita 👋
+## Hi there 👋
 🎓 Currently studying @ **University of Aveiro**
 
 <br/>
