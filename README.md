@@ -7,14 +7,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=franciscocardita&hide=prs&count_private=true&show_icons=true&theme=dracula" width="420" />
 </div>
 
+<!--
 <div align = center>
   <a href="https://github.com/franciscocardita/POO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=POO&theme=dracula" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=leci-poo&theme=dracula" width="420" />
   </a>
   <a href="https://github.com/franciscocardita/AC1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=AC1&theme=dracula" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franciscocardita&repo=leci-ac1&theme=dracula" width="420" />
   </a>
 </div>
+-->
 
 ## Where to find me
 <div align="center">
