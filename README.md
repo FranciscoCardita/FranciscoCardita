@@ -4,7 +4,8 @@
 <br/>
 
 <div align = center>
-    <img src="https://github-readme-stats.vercel.app/api?username=franciscocardita&hide=prs&count_private=true&show_icons=true&theme=dracula" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api?username=franciscocardita&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=dracula" width="420" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCardita&hide_border=true&layout=compact&theme=dracula" width="420" height="200" />
 </div>
 
 <!--
